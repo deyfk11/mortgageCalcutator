@@ -1,0 +1,6 @@
+{
+    "trailingComma": "all",
+    "tabWidth": 2,
+    "max-len": 90,
+    "semi": true
+}
